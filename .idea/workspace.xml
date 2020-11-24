@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63dd45a2-7b86-4276-95bf-289a211bfc99" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/generic_file_parser$FileClassLoaderTest.ic" NAME="FileClassLoaderTest Coverage Results" MODIFIED="1600767204037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.generic.file.parser.loader.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/GenericFileParserMainApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="79" selection-start-line="77" selection-start-column="8" selection-end-line="79" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/parser/CSVFileParserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/CSVFileParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1277#1278#0" expanded="true" />
+                <element signature="e#1339#1340#0" expanded="true" />
+                <element signature="e#1782#1783#0" expanded="true" />
+                <element signature="e#1836#1837#0" expanded="true" />
+                <element signature="e#5201#5202#0" expanded="true" />
+                <element signature="e#5267#5268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/CSVFileParserProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/loader/FileClassLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="87" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="87" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fileName</find>
+      <find>cr</find>
+      <find>crpy</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/EncoderFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompressorFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ParserMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/FileClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/FileCompressor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/constants/FileParserConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encoder/Encoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/Encryptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/EncoderFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/ParserMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/FileParserBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/EncryptorFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/impl/GzipCompressor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/impl/ZipCompressor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/impl/BzipCompressor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/impl/BzCompressor.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/BzCompressorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/GzipCompressorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/ZipCompressorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/BzipCompressorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encoder/impl/ISOCharacterEncoder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/encoder/impl/ISOCharacterEncoderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/encoder/impl/UTFCharacterEncoderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encoder/impl/UTFCharacterEncoder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/encryptor/impl/AES128EncrepterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/encryptor/impl/AES256EncrepterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/encryptor/impl/RSAEncrepterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/impl/AES128Encrepter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/impl/AES128Encrypter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/impl/AES256Encrepter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/impl/AES256Encrypter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/impl/RSAEncrepter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/impl/RSAEncrypter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/encryptor/impl/RSAEncrypterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/encryptor/impl/AES256EncrypterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/encryptor/impl/AES128EncrypterTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/loader/FileClassLoaderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/loader/FileClassLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/CompressorFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/CompressorFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/EncoderFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/EncryptorFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/parser/FileParserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/FileParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/CSVFileParserProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/ParserGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/Parser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/GenericFileParserMainApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/CSVFileParser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/generic/file/parser/parser/CSVFileParserTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="590" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="loader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+              <item name="parser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generic-file-parser" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generic-file-parser" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601822345323" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.generic.file.parser.parser" />
+      <recent name="com.generic.file.parser" />
+      <recent name="com.generic.file.parser.loader" />
+      <recent name="com.generic.file.parser.encryptor.impl" />
+      <recent name="com.generic.file.parser.encoder.impl" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="encryptor.impl" />
+      <recent name="compressor" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GenericFileParserMainApplication">
+    <configuration name="GenericFileParserMainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generic.file.parser.GenericFileParserMainApplication" />
+      <module name="generic-file-parser" />
+      <option name="PROGRAM_PARAMETERS" value="file=foo.zzz path=C:\\Data encryption=AES128 encoding=UTF8 compression=gzip " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generic.file.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CSVFileParserTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="generic-file-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generic.file.parser.parser.processor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.generic.file.parser.parser" />
+      <option name="MAIN_CLASS_NAME" value="com.generic.file.parser.parser.CSVFileParserTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CSVFileParserTest.testReadAndWriteFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="generic-file-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generic.file.parser.parser.processor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.generic.file.parser.parser" />
+      <option name="MAIN_CLASS_NAME" value="com.generic.file.parser.parser.CSVFileParserTest" />
+      <option name="METHOD_NAME" value="testReadAndWriteFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CSVFileParserTest.testReadAndWriteFileWithoutParams" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="generic-file-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generic.file.parser.parser.processor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.generic.file.parser.parser" />
+      <option name="MAIN_CLASS_NAME" value="com.generic.file.parser.parser.CSVFileParserTest" />
+      <option name="METHOD_NAME" value="testReadAndWriteFileWithoutParams" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncryptorFactoryTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="generic-file-parser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generic.file.parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.generic.file.parser" />
+      <option name="MAIN_CLASS_NAME" value="com.generic.file.parser.EncryptorFactoryTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GenericFileParserMainApplication" />
+      <item itemvalue="TestNG.EncryptorFactoryTest" />
+      <item itemvalue="TestNG.CSVFileParserTest.testReadAndWriteFile" />
+      <item itemvalue="TestNG.CSVFileParserTest.testReadAndWriteFileWithoutParams" />
+      <item itemvalue="TestNG.CSVFileParserTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenericFileParserMainApplication" />
+        <item itemvalue="TestNG.CSVFileParserTest" />
+        <item itemvalue="TestNG.CSVFileParserTest.testReadAndWriteFileWithoutParams" />
+        <item itemvalue="TestNG.CSVFileParserTest.testReadAndWriteFile" />
+        <item itemvalue="TestNG.EncryptorFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63dd45a2-7b86-4276-95bf-289a211bfc99" name="Default Changelist" comment="" />
+      <created>1600705468228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600705468228</updated>
+      <workItem from="1600705473081" duration="16181000" />
+      <workItem from="1600764149879" duration="3880000" />
+      <workItem from="1600782194714" duration="4568000" />
+      <workItem from="1601469008685" duration="792000" />
+      <workItem from="1601783445163" duration="51000" />
+      <workItem from="1601784016898" duration="5566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CompressorFactoryTest_testCreateInstance - 2020.09.22 at 15h 07m 11s.xml">
+      <configuration name="CompressorFactoryTest.testCreateInstance" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CompressorFactoryTest - 2020.09.22 at 15h 08m 15s.xml">
+      <configuration name="CompressorFactoryTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EncoderFactoryTest - 2020.09.22 at 15h 09m 51s.xml">
+      <configuration name="EncoderFactoryTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="EncryptorFactoryTest - 2020.09.22 at 15h 11m 48s.xml">
+      <configuration name="EncryptorFactoryTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FileParserTest_testReadAndWriteFile - 2020.09.22 at 15h 20m 59s.xml">
+      <configuration name="FileParserTest.testReadAndWriteFile" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FileParserTest_testReadAndWriteFile - 2020.09.22 at 15h 21m 28s.xml">
+      <configuration name="FileParserTest.testReadAndWriteFile" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FileParserTest_testReadAndWriteFileWithoutParams - 2020.09.22 at 19h 15m 08s.xml">
+      <configuration name="FileParserTest.testReadAndWriteFileWithoutParams" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FileParserTest - 2020.09.22 at 19h 17m 38s.xml">
+      <configuration name="FileParserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FileParserTest - 2020.10.04 at 09h 57m 44s.xml">
+      <configuration name="FileParserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CSVFileParserTest - 2020.10.04 at 20h 05m 38s.xml">
+      <configuration name="CSVFileParserTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31038000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2671141" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36456808" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.36456808" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.329429" />
+      <window_info anchor="bottom" id="SonarLint" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/GenericFileParserMainApplication.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/loader/FileClassLoader.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/GenericFileParserMainApplication.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/BzCompressorTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/GzipCompressorTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/GzipCompressorTest.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/encoder/impl/ISOCharacterEncoderTest.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>new String (fileName.getBytes(ISO_FORMAT))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fileName.getBytes(ISO_FORMAT)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>isoCharacterEncoder.decode(fileName.getBytes(ISO_FORMAT))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outContent.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outContent.toString().equals(&quot;File:- &quot; + fileName + &quot; De-Compressed from gzip format&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outContent.toString().equals(&quot;File:- &quot; + fileName + &quot; De-Compressed from gzip format\r&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outContent.toString().equals(&quot;File:- &quot; + fileName + &quot; De-Compressed from gzip format\r\n&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>fileCompressor.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>classMethod.invoke(classObject,type)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((Constructor)param_types[0].getConstructor0(param_types,0)).newInstance(type)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/compressor/Compressor.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/encoder/impl/CharacterEncoder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/encoder/impl/CharacterEncode.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="18" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/Compressor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/Encryptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/FileParserBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/encoder/Encoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="633" column="19" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
+          <folding>
+            <element signature="e#23072#23073#0" expanded="true" />
+            <element signature="e#23112#23113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/impl/BzCompressor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="77" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="77" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/GzipCompressorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/impl/GzipCompressor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/ZipCompressorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/impl/ZipCompressor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/BzipCompressorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/compressor/impl/BzipCompressor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/encoder/impl/ISOCharacterEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/encoder/impl/ISOCharacterEncoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="14" selection-start-line="14" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/constants/FileParserConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/encoder/impl/UTFCharacterEncoderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="45" column="61" lean-forward="true" selection-start-line="45" selection-start-column="58" selection-end-line="45" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/encoder/impl/UTFCharacterEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/impl/AES256Encrypter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/compressor/impl/BzCompressorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="36" column="128" selection-start-line="34" selection-start-column="7" selection-end-line="36" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/encryptor/impl/RSAEncrypterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="12" selection-start-line="12" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/encryptor/impl/AES256EncrypterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" selection-start-line="11" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/encryptor/impl/AES128EncrypterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/impl/RSAEncrypter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/encryptor/impl/AES128Encrypter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/loader/FileClassLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/EncoderFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/EncoderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/CompressorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/EncryptorFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/CompressorFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="14" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/EncryptorFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/loader/FileClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="87" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="87" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/CSVFileParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1277#1278#0" expanded="true" />
+            <element signature="e#1339#1340#0" expanded="true" />
+            <element signature="e#1782#1783#0" expanded="true" />
+            <element signature="e#1836#1837#0" expanded="true" />
+            <element signature="e#5201#5202#0" expanded="true" />
+            <element signature="e#5267#5268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/parser/CSVFileParserProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/generic/file/parser/GenericFileParserMainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="79" selection-start-line="77" selection-start-column="8" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/generic/file/parser/parser/CSVFileParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
